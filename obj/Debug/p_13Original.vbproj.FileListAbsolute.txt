@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\p_13Original\p_13Original\bin\Debug\p_13Original.exe.config
+C:\Users\1\source\repos\p_13Original\p_13Original\bin\Debug\p_13Original.exe
+C:\Users\1\source\repos\p_13Original\p_13Original\bin\Debug\p_13Original.pdb
+C:\Users\1\source\repos\p_13Original\p_13Original\bin\Debug\p_13Original.xml
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.vbprojAssemblyReference.cache
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.Form1.resources
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.Form2.resources
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.Form3.resources
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.Form4.resources
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.Resources.resources
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.vbproj.GenerateResource.cache
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.vbproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.exe
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.xml
+C:\Users\1\source\repos\p_13Original\p_13Original\obj\Debug\p_13Original.pdb
